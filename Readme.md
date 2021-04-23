@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/paco3209/advanceApiNodeMongo/master/assets/images/API.png"/>
+<img src="https://raw.githubusercontent.com/paco3209/advanceApiNodeMongo/master/src/assets/images/API.png"/>
 
 <br>
 <br>
